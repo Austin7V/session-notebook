@@ -4,24 +4,24 @@
 
 Die Shell ist ein textbasiertes Interface, mit dem man direkt mit dem Betriebssystem arbeitet.
 Man gibt Befehle ein, um:
-• Dateien und Ordner anzulegen
-• im Dateisystem zu navigieren
-• Programme auszuführen
-• Prozesse zu steuern
+- Dateien und Ordner anzulegen
+- im Dateisystem zu navigieren
+- Programme auszuführen
+- Prozesse zu steuern
 
 Wichtige Shell-Befehle:
 
 Befehl Bedeutung
-ls              zeigt den Inhalt des aktuellen Ordners
-ls -la          zeigt alle Dateien inkl. versteckter Dateien
-cd <Ordner>     in einen Ordner wechseln
-cd ..           eine Ebene zurück
-cd ~            ins Home-Verzeichnis
-pwd             zeigt den aktuellen Pfad
-mkdir <name>    erstellt einen neuen Ordner
-touch <datei>   erstellt eine neue Datei
-rm <datei>      löscht eine Datei (oder -rf dazu "rm -rf" dann kann mann ganze ordener löschen)
-mv <alt> <neu>  verschiebt oder umbenennt Dateien/Ordner
+- ls              zeigt den Inhalt des aktuellen Ordners
+- ls -la          zeigt alle Dateien inkl. versteckter Dateien
+- cd <Ordner>     in einen Ordner wechseln
+- cd ..           eine Ebene zurück
+- cd ~            ins Home-Verzeichnis
+- pwd             zeigt den aktuellen Pfad
+- mkdir <name>    erstellt einen neuen Ordner
+- touch <datei>   erstellt eine neue Datei
+- rm <datei>      löscht eine Datei (oder -rf dazu "rm -rf" dann kann mann ganze ordener löschen)
+- mv <alt> <neu>  verschiebt oder umbenennt Dateien/Ordner
 
 ⸻
 
