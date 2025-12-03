@@ -64,7 +64,11 @@
       src="https://web.archive.org/web/20210718095533im_/http://html5.by/wp-content/uploads/2014/02/flexbox-main-row-300x300.png"
       alt="Flexbox Hauptachse in Zeilenrichtung (row)">
   </figure>
-
+  <figure>
+   <img 
+      src="https://web.archive.org/web/20210718095533im_/http://html5.by/wp-content/uploads/2014/02/flexbox-main-column-300x300.png" 
+      alt="flexbox-main-column">
+   </figure>
   <h3><code>flex-direction</code> – Richtung der Hauptachse</h3>
   <p>
     Mit <code>flex-direction</code> legst du fest, in welche Richtung die Flex-Items angeordnet werden.
